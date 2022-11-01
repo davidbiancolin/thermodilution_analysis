@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: main.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "/Users/thomasusherwood/lab_code/edelman_lab/thermodilution_analysis",
+            "program": "main.py",
+            "args": [],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: debug.py",
+            "type": "python",
+            "request": "launch",
+            "cwd": "/Users/thomasusherwood/lab_code/edelman_lab/thermodilution_analysis",
+            "program": "debug.py",
+            "args": [],
+            "console": "integratedTerminal"
+        },
+    ]
+}
